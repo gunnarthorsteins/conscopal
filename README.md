@@ -37,7 +37,9 @@ $ touch .env && echo 'ENDPOINT = "YOUR_IP"' > .env
 $ python main.py
 ```
 
-5. Profit.
+5. Use the left joystick to navigate horizontally (X & Y axes), and up/down buttons to move commensurately up and down (Z axis).
+
+6. Profit.
 
 
 > **Caveats**: At the time of writing this has only been run on a Mac using [this](https://www.amazon.com/dp/B0BVSX1MW2?psc=1&ref=ppx_yo2ov_dt_b_product_details) store-brand "P4" (yes, not a typo) controller—the cheap controller didn't get recognized properly as a device on the RPi that controls the 3D printer stage & microscope.
