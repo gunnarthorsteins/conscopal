@@ -10,7 +10,7 @@ I basically had everything in place but the controller. Our research group is fo
 
 Usually we control the printer either manually _via_ a web interface (manually) or automatically through some programmatic abstraction. The framework for this project is inherited from Dan's [marlinscope](https://github.com/dansteingart/marlinscope), that is, using a modified 3D printer stage to move an optical microscope. Please checkout that repo's `readme` to see a better articulated and thoughtful motivation for its utility. This repo's only job is therefore to listen in on the stream from the controller and relay it onto the 3D printer.
 
-![Flowchart](schematic.svg)
+![Flowchart](schematic.png)
 
 
 ### Setup
