@@ -2,7 +2,7 @@
 
 TL;DR _Use a console controller to move an optical microscope in three dimensions by having it mounted to a 3D printer stage._
 
-[ ] TODO: Add a gif of it in action.
+![](https://imgur.com/chqVmiD)
 
 I wanted to create something engaging for my son's elementary school science/career fair. Now, the cliché is having children identify specimens in a microscope. However, with everyone's attention span being reduced to smithereens (we adults aren't any better) I felt like making something with a little more pizzazz.
 
